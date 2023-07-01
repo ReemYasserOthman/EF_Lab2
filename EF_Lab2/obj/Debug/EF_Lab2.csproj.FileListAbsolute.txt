@@ -1,0 +1,12 @@
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\bin\Debug\EF_Lab2.exe.config
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\bin\Debug\EF_Lab2.exe
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\bin\Debug\EF_Lab2.pdb
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.csproj.AssemblyReference.cache
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.csproj.SuggestedBindingRedirects.cache
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.DisconnectedMode.resources
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.Properties.Resources.resources
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.csproj.GenerateResource.cache
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.csproj.CoreCompileInputs.cache
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.exe
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.pdb
+D:\ITI EF\EF_Lab2_Soluation\EF_Lab2\obj\Debug\EF_Lab2.Layred.resources
